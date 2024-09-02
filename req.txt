@@ -1,0 +1,20 @@
+langchain-community
+langchain-core
+groq
+flask
+langchain
+python-dotenv
+streamlit
+langchain-groq
+pypdf
+sentence_transformers
+milvus
+pymilvus
+langchain-huggingface
+langchain_milvus
+faiss-cpu
+arxiv
+wikipedia
+langchain_openai
+fastembed
+-e .
